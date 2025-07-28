@@ -95,7 +95,7 @@ SmartReg provides a robust, offline-first solution for managing academic data in
 ## 📂 Repository & Resources
 
 - 🔗 [GitHub Repository](https://github.com/owizdom/Group11-SmartReg_PLP-2)  
-- 🖥️ [Presentation Slides](#) *(Insert actual link if available)*
+- 🖥️ [Presentation Slides](https://docs.google.com/presentation/d/1YmLb1bi5A-3GoqgsScc3w-6b10C1WzsVG9x4WPO1Rag/edit?usp=sharing)
 
 ---
 
