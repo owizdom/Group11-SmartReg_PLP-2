@@ -83,7 +83,7 @@ SmartReg provides a robust, offline-first solution for managing academic data in
 
 | Group Member                | Sessions Attended | Git Contributions | Key Responsibilities                          |
 |----------------------------|-------------------|-------------------|-----------------------------------------------|
-| Wisdom Okechukwu Ikechukwu| Present           | 2                 | Database Connection, Main Scripting           |
+| Wisdom Okechukwu Ikechukwu| Present           | 3                 | Database Connection, Main Scripting, Readme           |
 | Orla Lennie Ishimwe        | Present           | 2                 | Student Management, Main Scripting            |
 | Nsenga Willy               | Present           | 1                 | Registration Services, Main Scripting         |
 | Cyuzuzo Germain            | Present           | 1                 | Database Design, Main Scripting               |
