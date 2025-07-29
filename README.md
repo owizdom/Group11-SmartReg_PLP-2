@@ -36,6 +36,14 @@ The system runs entirely on the command line and is optimized for low-end device
 - **🖥️ Lightweight CLI Interface**  
   Simple numeric input system with text-based menu navigation for ease of use on low-spec terminals.
 
+
+-**How to use**
+```
+python3 -m venv path/to/venv
+    source path/to/venv/bin/activate
+
+python3 main.py
+```
 ---
 
 ## 🛠️ Technologies Used
